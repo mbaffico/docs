@@ -1,12 +1,6 @@
 # ⚽ Global Football Analysis
 This project analyzes football match data from leagues around the world to uncover meaningful trends in team performance and match outcomes. Leveraging R and spatial visualization tools, it draws insights from thousands of matches played across dozens of countries.
 
-## 📂 Repository Structure
-- `/data/` – Raw datasets
-- `/scripts/` – R scripts for data wrangling and analysis
-- `/figures/` – Visualizations and maps
-- `/reports/` – Markdown or HTML reports
-
 ### 📊 Featured Study: No Place like Home?
 **A data-driven look at how impactful home advantage truly is in football.**
 
