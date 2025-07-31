@@ -1,4 +1,4 @@
-# 📁 GitHub Pages: Hosted Visualizations & Analyses
+# 📁 Visualizations & Analyses
 
 Welcome to my documentation site for hosted HTML outputs and data-driven insights. This repository serves as a centralized location for interactive reports, visualizations, and case studies developed in R and other tools.
 
